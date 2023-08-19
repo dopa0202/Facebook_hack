@@ -158,7 +158,7 @@ OPTIONS:
     |--------
     | -p <Proxy IP:PORT>                      ::> Specify HTTP/S Proxy (Optional)
     |--------
-    | -g <TARGET Facebook Profile URL>        ::> Specify Target Facebook Profile URL For Get HIS ID
+    | -g <TARGET https://www.facebook.com/dhanajhayde>        ::> Specify Target Facebook Profile URL For Get HIS ID
     |--------
     | -u/--update                             ::> Update FaceBook_hack Script
 -------------
